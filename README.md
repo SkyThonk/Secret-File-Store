@@ -6,3 +6,7 @@ This is an automation script that can create 100 x 100 x 10 nested folders in yo
 # Requirement
 * Python
 * (for best experince please use terminal/command prompt/cmd to run the script)
+
+# Usage
+* Download the application.py from this repo
+* Run the file in terminal
