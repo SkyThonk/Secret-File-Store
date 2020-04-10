@@ -4,5 +4,5 @@ This is an automation script that can create 100 x 100 x 10 nested folders in yo
 ![Demo Image](image.png)
 
 # Requirement
-Python
-(for best experince please use terminal/command prompt/cmd to run the script)
+* Python
+* (for best experince please use terminal/command prompt/cmd to run the script)
